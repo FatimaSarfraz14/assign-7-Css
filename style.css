@@ -1,0 +1,446 @@
+body{
+    background-color: rgba(241, 241, 241, 0.938);
+}
+
+p{
+    margin-top: -0%;
+    margin-left: 10%;
+}
+
+.link{
+    text-decoration: none;
+    color: black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif,sans-serif;
+    font-size: 110%;
+   margin-right: 1%;
+   margin-top: 1%;
+   word-spacing: 2%;
+   float: right;
+
+}
+
+.linked-para{
+    margin-right: 430px;
+}
+
+.link:hover{
+    text-decoration: underline;
+
+}
+
+.head{
+    text-decoration: bold;
+    color: rgb(36, 35, 35);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif,sans-serif;
+    font-size: 280%;
+   margin-left: 10%;
+   text-align: justify;
+   margin-top: 2%; 
+}
+span{
+    color: rgb(255, 123, 0);
+}
+
+h1{
+    color: rgb(255, 255, 255);
+    text-align: center;
+}
+
+.p2{
+    
+    margin-top: 0%;
+}
+
+.container{
+    display: flex;
+justify-content: right;
+margin-top: -320px;
+margin-right: 450px;
+}
+
+
+.div{
+    color: #fca1a1;
+    background-color: black;
+    border: 1px solid black;
+    width: 22%;
+    height: 400px;
+    border-radius: 5%;
+}
+
+.li{
+    width: 90%;
+    height: 7%;
+    margin-left: 3%;
+}
+
+.hi{
+    width: 110%;
+    height: 10%;
+}
+
+.para{
+    margin-top: 120px;
+}
+
+button{
+    color: rgb(255, 255, 255);
+    width: 92%;
+    height: 10%;
+    margin-left: 3%;
+background-color: rgb(255, 123, 0);
+ border-radius: 5px;
+ border-color: #ff1100;
+}
+
+.div2{
+    
+    border: 1px solid black;
+    border-radius: 5px ;
+    display: inline-flex;
+    width: 10%;
+    height: 120px;
+   margin-left: 0.3%;
+   justify-content: center;
+   text-align: center;
+   background-color: rgba(241, 241, 241, 0.781);
+}   
+
+.div2:hover{
+    background-color: rgb(204, 201, 201);
+    cursor: pointer;
+
+}
+
+.img{
+    margin-left: 23%;
+    margin-top:5%;
+}
+
+.p4{
+    margin-left: -40%;
+    margin-top: 30%;
+}
+
+.div3{
+    border: 1px solid black;
+    border: 1px solid black;
+    border-radius: 5px ;
+    display: inline-flex;
+    width: 15%;
+    height: 280px;
+    justify-content: center;
+   text-align: center;
+   margin-left: 0.3%;
+   text-align: center;
+   color: white;
+  
+}
+
+.div3:hover{
+    box-shadow: 1px 1px 3px rgb(61, 61, 61);
+}
+
+.h2{
+    color:rgb(0, 0, 0);
+    margin-left: -18%;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
+
+.p6{
+    color: rgb(46, 45, 45);
+   margin-left: -20%;
+    font-size: 100%;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h2{
+    margin-top: 50%;
+    font-size: 180%;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}   
+
+#ac-install{
+    background-image: url(https://xtshubble.blob.core.windows.net/blog/e6d35ace720a4fa69f26c30b123322dd.jpg);
+    background-repeat: no-repeat;
+    background-size: 450px;
+}
+
+#Sofa{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7MwqxQumD23TLLBEUkIg2t0AZ1n5tvHb4GFlSZm35KAv0tXs2HDbJfeRgfFxBo-uBWnM&usqp=CAU);
+    background-repeat: no-repeat;
+    background-size: 400px;
+}
+
+#carpet{
+    background-image: url(https://www.carpet-cleaner.co.uk/wp-content/uploads/2022/09/Professional-Carpet-Cleaning-in-London.jpg);
+    background-repeat: no-repeat;
+    background-size: 420px;
+}
+
+#deep{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVxWOeQSjWs3LY6RHMs09--RvlTyN3nlhXRwsNGZDH9Q3roPiHLktV4Ypn743fJijMOQI&usqp=CAU);
+    background-repeat: no-repeat;
+    background-size: 300px;
+}
+
+
+#washing{
+    background-image: url(img/machine.png);
+    background-repeat: no-repeat;
+    background-size: 350px;
+}
+
+#refrigerator{
+    background-image: url(https://xtshubble.blob.core.windows.net/blog/6109d3fa13e64775956e84bf1fce6cc0.jpg);
+    background-repeat: no-repeat;
+    background-size: 420px;
+}
+
+#micro{
+    background-image: url(https://www.shutterstock.com/image-photo/worker-repairing-microwave-oven-kitchen-260nw-1671608362.jpg);
+    background-repeat: no-repeat;
+    background-size: 420px;
+}
+
+#pest{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbiMABBvM4CHHVLEObglFzwM8j51VJKQtVLAN0p_1Njbvbp7BJ-F00fh1tYcGtotD-aHs&usqp=CAU);
+    background-repeat: no-repeat;
+    background-size: 380px;
+}
+
+#makeup{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBTPIE54DT8OGHUG7lfKy_Ea9_mQFTLaHpoA&s);
+    background-repeat: no-repeat;
+    background-size: 300px;
+}
+
+#Wax{
+    background-image: url(https://xtshubble.blob.core.windows.net/image/74064106f3914bd68bcd4545168da69a.jpg);
+    background-repeat: no-repeat;
+    background-size: 300px;
+}
+
+#facial{
+    background-image: url(https://xtshubble.blob.core.windows.net/image/b7106f3ecf7e4fc3a575791137b72e58.jpg);
+    background-repeat: no-repeat;
+    background-size: 380px;
+}
+
+#water{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVxWOeQSjWs3LY6RHMs09--RvlTyN3nlhXRwsNGZDH9Q3roPiHLktV4Ypn743fJijMOQI&usqp=CAU);
+    background-repeat: no-repeat;
+    background-size: 300px;
+}
+
+.ph{
+    margin-left: 15%;  
+      margin-top: 1%;
+    height: 85%;
+}
+
+.gp{
+    margin-bottom: 35%;
+    margin-left: 32%;
+
+}
+
+.as{
+    margin-bottom: 35%;
+    margin-left: 0%;
+}
+.co{
+    margin-top: -500%;
+    margin-bottom: 33%;
+    margin-left: 5%;
+    width: 10%;
+
+}
+h3{
+    font-size: 150%;
+    margin-left: 32%;
+    margin-top: -19%;
+}
+
+.s2{
+    font-size: 80%;
+    color: #000;
+}
+
+.div41{
+    margin-left: 10.6%;
+     margin-right: 27.2%;
+    margin-top: 2%;
+}
+.div4{
+    margin-left: 1%;
+    margin-top: 1%;
+    display: inline-flex;
+    height: 300px;
+}
+.vid1{
+    border-radius:20px;
+}
+
+.span1{
+    margin-top: -5%;
+    border-bottom: #000;
+    border-bottom-right-radius: 5px;
+}
+
+.in {
+    margin-top: 3px;
+    height: 35px;
+    width: 300px;
+    border: 1px;
+    position: relative;
+    border-color: white;
+    background: rgb(255, 254, 254);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    margin-left: 1px;
+    border-style: ridge;
+    background-image: url('img/search.png');
+    background-repeat: no-repeat;
+    background-position: 260px;
+    background-size: 8%;
+    
+  
+  }
+
+  .la{
+    margin-top: 3px;
+    height: 38px;
+    width: 100px;
+    border: 1px;
+    position: relative;
+    border-color: white;
+    background: rgb(255, 254, 254);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    margin-left: 186px;
+    border-style: ridge;
+  }
+  .v1{
+    margin-top: 1%;
+    width: 100%;
+  } 
+   .v2{
+    margin-left: 8%;
+    margin-top: 1%;
+    width: 100%;
+  } 
+   .v3{
+    margin-left: 8%;
+    margin-top: 1%;
+    width: 100%;
+  }
+  .he{
+    color: #000;
+    background-color: #b9b4b4ea;
+    height: 100px;
+    width: 150% !important;
+    margin-top: 10%;
+    margin-left: 1%;
+    border: 2px solid black;
+    font-size: larger;
+  }
+  .we{
+    border: 2px solid black;
+    background-color: #b9b4b4ea;
+    height: 100px;
+    width: 150% !important;
+    margin-top: 10%;
+    margin-left: -0.3%;
+    font-size: larger;
+  }
+  .h{
+    color: #000;
+    user-select: none;
+  }
+  .di6{
+    background-color: white;
+    width:164% ;
+    height: 550px;
+    margin-left: -20%;
+  }
+  .ha{
+    margin-top: 30%;
+  }
+  .imgs{
+    margin-top: 2%;
+    margin-left: 15%;
+  }
+  .why{
+    margin-left: 43%;
+    font-size: 120%;
+    margin-top: -.6%;
+  }
+  .kam{
+    margin-top: -23.6%;
+    font-size: 180%;
+  }
+  .p9{
+    margin-top: -1%;
+    margin-left: 43%;
+    font-size: large;
+    font-weight: bolder;
+  }
+  .imgg{
+    margin-top: -20%;
+  }
+  .div5{
+    height: 550px;
+  }
+  .div7{
+    border: 1px solid white;
+    height: 550px;
+    background-color: white;
+  }
+  .div8{
+    border: 1px solid rgb(0, 0, 0);
+    height: 550px;
+    background-color: rgb(0, 0, 0);
+    color: white;
+  }
+  .bank{
+    margin-left: 10%;
+  }
+  .pq{
+    margin-top: -33%;
+    margin-left: 61%;
+    font-weight: bolder;
+  }
+.kaj{
+    margin-top: 1%;
+    margin-left: 15%;
+}
+.ho{
+    margin-top: 1%;
+    margin-left: 15%;
+    font-size: large;
+}
+.iph{
+    border: 2px solid white;
+    border-radius: 50%;
+    height: 45px;
+    margin-right: 2%;
+    margin-left: 3%;
+}
+.cl{
+    margin-top: -3%;
+    margin-left: 85%;
+    font-size: larger;
+}
+.mob{
+    margin-top: -50%;
+    color: white;
+}
+.p10{
+    margin-left: 15%;
+}
+.span1{
+    margin-left: 35%;
+    color: white;
+}
+
